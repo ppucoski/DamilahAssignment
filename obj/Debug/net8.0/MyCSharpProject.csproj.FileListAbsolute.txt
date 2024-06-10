@@ -1,0 +1,14 @@
+/home/petarpucoski/Desktop/MyCSharpProject/bin/Debug/net8.0/MyCSharpProject
+/home/petarpucoski/Desktop/MyCSharpProject/bin/Debug/net8.0/MyCSharpProject.deps.json
+/home/petarpucoski/Desktop/MyCSharpProject/bin/Debug/net8.0/MyCSharpProject.runtimeconfig.json
+/home/petarpucoski/Desktop/MyCSharpProject/bin/Debug/net8.0/MyCSharpProject.dll
+/home/petarpucoski/Desktop/MyCSharpProject/bin/Debug/net8.0/MyCSharpProject.pdb
+/home/petarpucoski/Desktop/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/petarpucoski/Desktop/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.AssemblyInfoInputs.cache
+/home/petarpucoski/Desktop/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.AssemblyInfo.cs
+/home/petarpucoski/Desktop/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.csproj.CoreCompileInputs.cache
+/home/petarpucoski/Desktop/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.dll
+/home/petarpucoski/Desktop/MyCSharpProject/obj/Debug/net8.0/refint/MyCSharpProject.dll
+/home/petarpucoski/Desktop/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.pdb
+/home/petarpucoski/Desktop/MyCSharpProject/obj/Debug/net8.0/MyCSharpProject.genruntimeconfig.cache
+/home/petarpucoski/Desktop/MyCSharpProject/obj/Debug/net8.0/ref/MyCSharpProject.dll
